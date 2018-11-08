@@ -1,0 +1,184 @@
+
+Rješenje pronađeno nakon 33. evolucije
+Broj evolucija: 50
+Veličina populacije: 150
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 39. evolucije
+Broj evolucija: 50
+Veličina populacije: 150
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 38. evolucije
+Broj evolucija: 50
+Veličina populacije: 150
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 34. evolucije
+Broj evolucija: 50
+Veličina populacije: 150
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 19. evolucije
+Broj evolucija: 50
+Veličina populacije: 5000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 19. evolucije
+Broj evolucija: 50
+Veličina populacije: 5000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 17. evolucije
+Broj evolucija: 50
+Veličina populacije: 5000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 21. evolucije
+Broj evolucija: 50
+Veličina populacije: 5000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 18. evolucije
+Broj evolucija: 50
+Veličina populacije: 10000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 20. evolucije
+Broj evolucija: 50
+Veličina populacije: 10000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 18. evolucije
+Broj evolucija: 50
+Veličina populacije: 10000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 17. evolucije
+Broj evolucija: 50
+Veličina populacije: 10000
+Koeficijent: 1
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 26. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 2
+Maksimalna vrijednost gena: 52
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 28. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 4
+Maksimalna vrijednost gena: 123
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 28. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 1
+Maksimalna vrijednost gena: 18
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 24. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 4
+Maksimalna vrijednost gena: 18
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 34. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 4
+Maksimalna vrijednost gena: 18
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 24. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 4
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 24. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 4
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 23. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 4
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 22. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 12
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: false
+
+Rješenje pronađeno nakon 24. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 12
+Maksimalna vrijednost gena: 26
+PreservFittest: true
+KeepPopulationConstant: true
+
+Rješenje pronađeno nakon 26. evolucije
+Broj evolucija: 50
+Veličina populacije: 1000
+Koeficijent: 12
+Maksimalna vrijednost gena: 26
+PreservFittest: false
+KeepPopulationConstant: false
