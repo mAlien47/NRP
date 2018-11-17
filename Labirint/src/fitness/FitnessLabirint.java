@@ -29,7 +29,7 @@ public class FitnessLabirint extends FitnessFunction {
 		String micanja = getStringRezultat(chromos);
 
 		if (micanja.equals(najboljeRjesenje))
-			return (double) 10000;
+			return (double)3000;
 
 		Celija[][] labirint = Main.getLabirint();
 
@@ -62,10 +62,10 @@ public class FitnessLabirint extends FitnessFunction {
 						break;
 				}
 
-				rez += 50;
+				rez += 75;
 
 			} else {
-				rez -= 100;
+				rez -= 75;
 			}
 
 			if (xKoord == 4 && yKoord == 4) {
@@ -73,7 +73,6 @@ public class FitnessLabirint extends FitnessFunction {
 				break;
 			}
 		}
-		// if (true) throw new EmptyStackException();
 
 		double kaznaZaBrKoraka = KAZNA_KORACI * Math.abs(najboljeRjesenje.length() - brojKoraka);
 		double nagradaZaBlizinu = xKoord * NAGRADA_BLIZINA + yKoord * NAGRADA_BLIZINA;
@@ -82,14 +81,10 @@ public class FitnessLabirint extends FitnessFunction {
 		rez += nagradaZaBlizinu;
 
 		if (isPronadenoRjesenje)
-			// throw new EmptyStackException();
 			rez += EVO_TI_KEKS;
 
 		if (rez < 0)
 			rez = 0;
-
-		// System.out.println("Fitness:" + rez);
-		// System.out.println(micanja);
 
 		return rez;
 	}
