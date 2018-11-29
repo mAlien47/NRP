@@ -2,7 +2,7 @@ package main;
 
 public enum Note {
 
-	C(1), D(2), E(3), F(4), G(5), A(6), H(7);
+	C(10), D(20), E(30), F(40), G(50), A(60), H(70);
 	
 	int vrijednost;
 	
