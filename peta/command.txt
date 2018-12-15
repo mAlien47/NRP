@@ -1,0 +1,11 @@
+CreateTraining: width:60,height:64,type:brightness 
+Input: image:./slika0.png, identity:cetvrtinka 
+Input: image:./slika1.png, identity:osminka 
+Input: image:./slika2.png, identity:polovinka
+Input: image:./slika3.png, identity:sesnaestinka
+Input: image:./slika4.png, identity:cijela
+Network: hidden1:50, hidden2:0
+Train: Mode:console, Minutes:5, StrategyError:0.25, StrategyCycles:50 
+WhatIs: image:./slika3.png, identity:sesnaestinka 
+WhatIs: image:./slika2.png, identity:polovinka 
+WhatIs: image:./slika4.png, identity:cijela

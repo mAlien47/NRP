@@ -1,0 +1,18 @@
+CreateTraining: width:53,height:50,type:Brightness 
+Input: image:./imgs/cetvrtinka/cetvrtinka0.jpg, identity:cetvrtinka 
+Input: image:./imgs/cetvrtinka/cetvrtinka1.jpg, identity:cetvrtinka 
+Input: image:./imgs/cetvrtinka/cetvrtinka2.jpg, identity:cetvrtinka 
+Input: image:./imgs/cetvrtinka/cetvrtinka3.jpg, identity:cetvrtinka 
+Input: image:./imgs/polovinka/polovinka0.jpg, identity:polovinka 
+Input: image:./imgs/polovinka/polovinka1.jpg, identity:polovinka 
+Input: image:./imgs/polovinka/polovinka2.jpg, identity:polovinka 
+Input: image:./imgs/polovinka/polovinka3.jpg, identity:polovinka 
+Input: image:./imgs/cijela/cijela0.jpg, identity:cijela 
+Input: image:./imgs/cijela/cijela1.jpg, identity:cijela 
+Input: image:./imgs/cijela/cijela2.jpg, identity:cijela 
+Input: image:./imgs/cijela/cijela3.jpg, identity:cijela 
+Network: hidden1:100, hidden2:10
+Train: Mode:console, Minutes:1, StrategyError:0.25, StrategyCycles:50 
+WhatIs: image:./imgs/polovinka/polovinka1.jpg, identity:polovinka 
+WhatIs: image:./imgs/cetvrtinka/cetvrtinka2.jpg, identity:cetvrtinka 
+WhatIs: image:./imgs/cijela/cijela2.jpg, identity:cijela
